@@ -3,6 +3,14 @@
 ## Presentation
 Adaptation en terminal du jeu de plateau les Colons de Catane.
 
+## Images
+
+![Image 1](MarkdownFiles/image1.jpg)
+![Image 2](MarkdownFiles/image2.jpg)
+![Image 3](MarkdownFiles/image3.jpg)
+![Image 4](MarkdownFiles/image4.jpg)
+![Image 5](MarkdownFiles/image5.jpg)
+
 ## Auteurs
 - Henri TRAN
 - Adrien LE NINIVEN
