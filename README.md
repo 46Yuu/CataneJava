@@ -1,4 +1,13 @@
 # CataneJava (Projet POOIG 2021)
+
+## Presentation
+Adaptation en terminal du jeu de plateau les Colons de Catane.
+
+## Auteurs
+- Henri TRAN
+- Adrien LE NINIVEN
+
+## Installation
 ***IMPORTANT***: Avant toute manipulation, veuillez vérifier que votre terminal / le terminal de votre IDE supporte les **séquences d'échappement ANSI** (ANSI escape code)
 afin que les couleurs appraissent bien dans le terminal, sinon l'affichage sera bugée et le jeu injouable.
 
