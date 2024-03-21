@@ -5,11 +5,11 @@ Adaptation en terminal du jeu de plateau les Colons de Catane.
 
 ## Images
 
-![Image 1](MarkdownFiles/image1.jpg)
-![Image 2](MarkdownFiles/image2.jpg)
-![Image 3](MarkdownFiles/image3.jpg)
-![Image 4](MarkdownFiles/image4.jpg)
-![Image 5](MarkdownFiles/image5.jpg)
+<img src="MarkdownFiles/image1.png" width="50%">
+<img src="MarkdownFiles/image2.png" width="50%">
+<img src="MarkdownFiles/image3.png" width="50%">
+<img src="MarkdownFiles/image4.png" width="50%">
+<img src="MarkdownFiles/image5.png" width="50%">
 
 ## Auteurs
 - Henri TRAN
